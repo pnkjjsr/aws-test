@@ -15,4 +15,4 @@ RUN npm install react-scripts@1.1.1 -g --silent
 RUN npm install -g serve
 
 # start app
-CMD ["serve", "build -s"]
+CMD ["serve", "build"]
